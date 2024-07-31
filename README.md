@@ -10,6 +10,9 @@ This repository contains all the scripts for the analyses presented in the paper
  - getimmIC.R: Filtering for independent components related to immunology.
  - getiDICmatrix.R: Calculation of TIME-driver independent components profile by integrating signature components and somatic mutation data.
  - getiDICss.R: Development of iDIC-based risk score system.
+ - getMLcombine.R：A function that develops robust predictive models with excellent performance, using patient prognosis as the outcome.
+ - plot.heatmap.R：Plot the heatmap of the C-index of all combined prediction models.
+ - compare.performance.R：Calculating the performance measurements of all combined prediction models.
 
 **Installation**
 
