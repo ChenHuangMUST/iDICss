@@ -1,4 +1,4 @@
-﻿**iDICss: a scoring system that integrates genomic and transcriptomic data using independent component analysis to predict immunotherapy response in melanoma**
+﻿**iDICss robustly predicts melanoma immunotherapy response by synergizing genomic and transcriptomic knowledge via independent component analysis**
 
 Repository for the paper "Integration of genomic and transcriptomic data using independent component analysis to predict immunotherapy response in melanoma"
 
