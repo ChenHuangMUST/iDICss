@@ -1,7 +1,3 @@
-﻿**iDICss robustly predicts melanoma immunotherapy response by synergizing genomic and transcriptomic knowledge via independent component analysis**
-
-Repository for the paper "iDICss robustly predicts melanoma immunotherapy response by synergizing genomic and transcriptomic knowledge via independent component analysis"
-
 This repository contains all the scripts for the analyses presented in the paper. This includes scripts for running ICA, obtaining immune-related ICs, calculating the iDIC matrix and constructing the iDIC scoring system.
 
 **Contents**
